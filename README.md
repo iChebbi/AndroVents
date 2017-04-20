@@ -1,5 +1,5 @@
 # AndroVents
-Browse event details and get informations about their time and place.
+Browse events details and get informations about their time and place.
 
 This is an Android Studio project, built using version `2.3.1` and minimum SDK 23.
 This app parses events data from a public `JSON API`. Check [Eventful.com](http://api.eventful.com/) for more events API.
